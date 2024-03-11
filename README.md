@@ -6,7 +6,7 @@ Frontend Developer (React, Redux, JS/TS)
 
 * 🌍  Based in Riga, Latvia
 * ✉️  You can contact me at [sergei24ruban@gmail.com](mailto:sergei24ruban@gmail.com)
-* 🧠  Currently I'm learning TypeScript, Tailwind
+* 🧠  Currently I'm learning Tailwind CSS
 * 🤝  Open to collaborating on projects where I will be able to utilize my skills, make an impact on the product and grow as a developer
 
 ### Skills
