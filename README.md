@@ -28,11 +28,3 @@ Frontend Developer (React, Redux, JS/TS)
   <a href="https://www.linkedin.com/in/sergeiruban/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
    <a href="http://www.instagram.com/sergei24ruban" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> 
 </p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/SkyAjax"><img src="https://github-readme-stats.vercel.app/api?username=SkyAjax&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="SkyAjax's GitHub stats" /></a>
-
-<a href="https://github.com/SkyAjax" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyAjax&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
