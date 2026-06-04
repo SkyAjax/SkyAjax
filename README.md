@@ -4,7 +4,7 @@ Hi 👋 My name is Sergei Ruban
 Frontend Developer (React, Redux, JS/TS)
 ----------------------------------------
 
-* 🏦  Frontend Develop in Citadele Bank
+* 🏦  Frontend Developer in Citadele Bank
 * 🌍  Based in Riga, Latvia
 * ✉️  You can contact me at [sergei24ruban@gmail.com](mailto:sergei24ruban@gmail.com)
 * 🧠  Currently I'm learning Animations in motion.dev
